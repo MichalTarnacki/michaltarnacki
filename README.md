@@ -1,4 +1,11 @@
-## Hi there 👋
+# Michał Tarnacki
+Hello!
+
+I am a Firmware Development Intern at Intel Corporation, currently contributing to open-source TDX virtual firmware projects including MigTD, TD-Shim, and SPDM-RS.
+
+Throughout my career, I have gained hands-on experience across a range of low-level domains — from UEFI drivers, ACPI, and PCIe to Coreboot firmware. My work has spanned building internal validation tools, debugging code on real silicon, and developing unit tests.
+
+Outside of work, I am actively involved in a student tourism organization, where I plan and lead outdoor events such as hiking trips, kayaking excursions, and campfire gatherings.
 
 <!--
 **MichalTarnacki/michaltarnacki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
